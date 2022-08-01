@@ -1,3 +1,9 @@
+## Docker Container Link
+You can pull my docker container using this command:
+
+    docker pull rhythmtunetrombone/classifier_container
+
+
 ## Introduction
 
 In the project this week, we will focus on model deployment for the news classification model that we trained in week 1, and evaluated in week 2.
